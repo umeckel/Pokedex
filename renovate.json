@@ -9,6 +9,12 @@
       "matchPackagePrefixes": [
         "androidx.compose.ui"
       ]
-    }
+    },
+    {
+      "groupName": "group androidx.compose.material:*",
+      "matchPackagePrefixes": [
+        "androidx.compose.material"
+      ]
+    }    
   ]
 }
