@@ -9,7 +9,7 @@ Learning with an example project by philipplackner
 
 ### Progress
 
-- [ ] [Creation and Navigation](https://www.youtube.com/watch?v=v0of23TxIKc)
+- [x] [Creation and Navigation](https://www.youtube.com/watch?v=v0of23TxIKc)
 - [ ] [Retrofit Setup](https://www.youtube.com/watch?v=aaChg9aJDW4)
 - [ ] [SearchBar & PokémonListScreen](https://www.youtube.com/watch?v=O6k5Q2LoL0k)
 - [ ] [Pokédex List Entries & PokémonListViewModel](https://www.youtube.com/watch?v=D06EV3PngJY)
