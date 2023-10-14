@@ -12,7 +12,7 @@ Learning with an example project by philipplackner
 - [x] [Creation and Navigation](https://www.youtube.com/watch?v=v0of23TxIKc)
 - [x] [Retrofit Setup](https://www.youtube.com/watch?v=aaChg9aJDW4)
 - [x] [SearchBar & PokémonListScreen](https://www.youtube.com/watch?v=O6k5Q2LoL0k)
-- [ ] [Pokédex List Entries & PokémonListViewModel](https://www.youtube.com/watch?v=D06EV3PngJY)
+- [x] [Pokédex List Entries & PokémonListViewModel](https://www.youtube.com/watch?v=D06EV3PngJY)
 - [ ] [Paginating Pokémon List](https://www.youtube.com/watch?v=jrIfGAk8PyQ)
 - [ ] [Bug fix & Searching Pokémon](https://www.youtube.com/watch?v=X4Y63Cw9Gmw)
 - [ ] [Pokémon Detail Screen (1)](https://www.youtube.com/watch?v=FgJLP-VIiRA)
